@@ -1,0 +1,152 @@
+CuCr2S4 T>TN (nuclear only)
+! Current global Chi2 (Bragg contrib.) =      58.59    
+NPATT      1       1 <- Flags for patterns (1:refined, 0: excluded)
+W_PAT   1.000
+!Nph Dum Ias Nre Cry Opt Aut
+   2   1   1   0   0   0   1
+!Job Npr Nba Nex Nsc Nor Iwg Ilo Res Ste Uni Cor Anm Int
+  -1  13  31   2   0   1   0   0   0   0   1   0   0   0  !-> Patt#: 1
+!
+!File names of data(patterns) files
+54095-4_7raw.gss
+!
+!Mat Pcr NLI Rpa Sym Sho
+   0   1   0  -1   0   0
+!Ipr Ppl Ioc Ls1 Ls2 Ls3 Prf Ins Hkl Fou Ana
+   0   2   1   0   4   0   3  14   0   0   0  !-> Patt#: 1
+!
+!  Bkpos        Wdt    Iabscor for Pattern#  1
+    2400.000   25.00     2
+!NCY  Eps  R_at  R_an  R_pr  R_gl
+ 30  0.10  0.30  1.00  1.00  1.00
+!    TOF-min      <Step>       TOF-max  -> Patt#: 1
+   7459.2158     25.1687 109118.4531
+!
+!2Theta/TOF/E(Kev)   Background  for Pattern#  1
+      7772.5186       217.3958          0.00
+     11345.8623       336.6115        241.00
+     15437.0303       341.8846        251.00
+     17211.9102       331.8636        261.00
+     20975.5605       300.5655        271.00
+     25174.9961       260.5181        281.00
+     30035.2617       246.1110        291.00
+     31693.9141       243.3527        301.00
+     36651.5508       271.4320        311.00
+     40947.0156       229.3679        321.00
+     43150.9453       239.1659        331.00
+     47163.8789       246.4239        341.00
+     50099.8008       250.8482        351.00
+     54252.5781       295.0367        361.00
+     57286.5977       295.7865        371.00
+     60691.3359       248.6803        381.00
+     63156.6211       290.1993        391.00
+     66999.0938       253.9603        401.00
+     69075.8594       245.9894        411.00
+     72697.2422       242.6134        421.00
+     76762.7578       237.6694          0.00
+     78932.3672       239.8361          0.00
+     82685.4922       242.9532          0.00
+     88593.6172       240.6391          0.00
+     92131.1328       244.9234          0.00
+     95176.2031       250.0148          0.00
+     97996.2188       253.1175          0.00
+    102587.7109       241.9576          0.00
+    104373.1094       251.0011          0.00
+    107730.2656       291.7494          0.00
+    109046.0703       104.5667          0.00
+! 
+! Excluded regions (LowT  HighT) for Pattern#  1
+        0.00    10000.00
+   134000.00   300000.00
+! 
+!
+      42    !Number of refined parameters
+!
+!    Zero       Code      Dtt1      Code       Dtt2     Code  Dtt_1overd    Code  2ThetaBank  -> Patt#  1
+   -11.10099    0.00 18655.97852    0.00     1.13298    0.00     0.00000    0.00   121.660
+!-------------------------------------------------------------------------------
+!  Data for PHASE number:   1  ==> Current R_Bragg for Pattern#  1:   3.0385
+!-------------------------------------------------------------------------------
+CuCr2S4 thiospinel
+!
+!Nat Dis Ang Jbt Isy Str Furth        ATZ     Nvk More
+   3   0   0   0   0   0   0       2226.3550   0   0
+!Contributions (0/1) of this phase to the  1 patterns
+ 1
+!Irf Npr Jtyp  Nsp_Ref Ph_Shift for Pattern#  1
+   0   9   -1      0      0
+! Pr1    Pr2    Pr3   Brind.   Rmua   Rmub   Rmuc     for Pattern#  1
+  0.000  0.000  1.000  1.000  0.000  0.000  0.000
+!
+!
+F d -3 m                 <--Space group symbol
+!Atom   Typ       X        Y        Z     Biso       Occ     In Fin N_t Spc /Codes
+Cu0    Cu      0.12500  0.12500  0.12500  1.42175   0.04017   0   0   0    0  
+                  0.00     0.00     0.00   201.00     41.00
+Cr0    Cr      0.50000  0.50000  0.50000  1.11794   0.07946   0   0   0    0  
+                  0.00     0.00     0.00   211.00     31.00
+S1     S       0.25765  0.25765  0.25765  1.47515   0.16666   0   0   0    0  
+                  0.00     0.00     0.00   221.00      0.00
+!-------> Profile Parameters for Pattern #   1  ----> Phase #   1
+!  Scale          Extinc       Bov      Str1      Str2      Str3    Strain-Mode
+  72.46500        0.0000    0.0000    0.0000    0.0000    0.0000         0
+     141.00000      0.00      0.00      0.00      0.00      0.00
+!      Sigma-2       Sigma-1       Sigma-0       Sigma-Q   Iso-GStrain     Iso-GSize     Ani-LSize   Size-Model
+       19.2025       11.1901        0.0000        0.0000        0.0000        0.0000        0.0000       0
+        231.00        131.00          0.00          0.00          0.00          0.00          0.00
+!      Gamma-2       Gamma-1       Gamma-0   Iso-LorStrain   Iso-LorSize
+        0.3211        0.0000        7.9936        0.0000        0.0000
+        171.00          0.00          0.00          0.00          0.00
+!     a          b         c        alpha      beta       gamma      #Cell Info
+   9.826964   9.826964   9.826964  90.000000  90.000000  90.000000   
+   51.00000   51.00000   51.00000    0.00000    0.00000    0.00000
+!      Pref1      Pref2        alph0       beta0       alph1       beta1       alphQ       betaQ
+    1.000000    0.000000   -0.010613    0.006156    0.097393    0.009962    0.000000    0.000000
+        0.00        0.00       21.00      181.00       11.00      191.00        0.00        0.00
+!Absorption correction parameters
+   0.03826  161.00   0.00000    0.00            ABS: ABSCOR1  ABSCOR2
+!-------------------------------------------------------------------------------
+!  Data for PHASE number:   2  ==> Current R_Bragg for Pattern#  1:  61.9273
+!-------------------------------------------------------------------------------
+CuCrS2
+!
+!Nat Dis Ang Jbt Isy Str Furth        ATZ     Nvk More
+   4   0   0   0   0   0   0        539.0074   0   0
+!Contributions (0/1) of this phase to the  1 patterns
+ 1
+!Irf Npr Jtyp  Nsp_Ref Ph_Shift for Pattern#  1
+   0   9   -1      0      0
+! Pr1    Pr2    Pr3   Brind.   Rmua   Rmub   Rmuc     for Pattern#  1
+  0.000  0.000  1.000  1.000  0.000  0.000  0.000
+!
+!
+160                      <--Space group symbol
+!Atom   Typ       X        Y        Z     Biso       Occ     In Fin N_t Spc /Codes
+Cu     Cu      0.00000  0.00000  0.03414  0.00000   0.16667   0   0   0    0  
+                  0.00     0.00    91.00     0.00      0.00
+Cr     Cr      0.00000  0.00000  0.16252  0.00000   0.16667   0   0   0    0  
+                  0.00     0.00    81.00     0.00      0.00
+S1     S       0.00000  0.00000  0.25018  0.00000   0.16667   0   0   0    0  
+                  0.00     0.00    71.00     0.00      0.00
+S2     S       0.00000  0.00000  0.64151  0.00000   0.16667   0   0   0    0  
+                  0.00     0.00    61.00     0.00      0.00
+!-------> Profile Parameters for Pattern #   1  ----> Phase #   2
+!  Scale          Extinc       Bov      Str1      Str2      Str3    Strain-Mode
+  46.47176        0.0000    0.2015    0.0000    0.0000    0.0000         0
+     151.00000      0.00      0.00      0.00      0.00      0.00
+!      Sigma-2       Sigma-1       Sigma-0       Sigma-Q   Iso-GStrain     Iso-GSize     Ani-LSize   Size-Model
+        1.9332       38.6407        0.4028        0.0000        0.0000        0.0000        0.0000       0
+          0.00          0.00          0.00          0.00          0.00          0.00          0.00
+!      Gamma-2       Gamma-1       Gamma-0   Iso-LorStrain   Iso-LorSize
+        0.0681        3.4357        0.6550        0.0000        0.0000
+          0.00          0.00          0.00          0.00          0.00
+!     a          b         c        alpha      beta       gamma      #Cell Info
+   3.488496   3.488496  18.723303  90.000000  90.000000 120.000000   
+  111.00000  111.00000  101.00000    0.00000    0.00000  111.00000
+!      Pref1      Pref2        alph0       beta0       alph1       beta1       alphQ       betaQ
+    1.000000    0.000000    0.007466    0.005498    0.140197    0.016128    0.000000    0.000000
+        0.00        0.00        0.00        0.00        0.00        0.00        0.00        0.00
+!Absorption correction parameters
+   0.44020  121.00   0.00000    0.00            ABS: ABSCOR1  ABSCOR2
+!  2Th1/TOF1    2Th2/TOF2  Pattern to plot
+   10000.000   70000.000       1

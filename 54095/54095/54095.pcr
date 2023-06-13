@@ -1,0 +1,431 @@
+CuCr2S4 T>TN (nuclear only)
+! Current global Chi2 (Bragg contrib.) =      50.63    
+NPATT      4       1 1 1 1 <- Flags for patterns (1:refined, 0: excluded)
+W_PAT   0.250 0.250 0.250 0.250
+!Nph Dum Ias Nre Cry Opt Aut
+   2   1   1   0   0   0   1
+!Job Npr Nba Nex Nsc Nor Iwg Ilo Res Ste Uni Cor Anm Int
+  -1  13  31   2   0   1   0   0   0   0   1   0   0   0  !-> Patt#: 1
+  -1  13  31   2   0   1   0   0   0   0   1   0   0   0  !-> Patt#: 2
+  -1  13  31   2   0   1   0   0   0   0   1   0   0   0  !-> Patt#: 3
+  -1  13  31   2   0   1   0   0   0   0   1   0   0   0  !-> Patt#: 4
+!
+!File names of data(patterns) files
+54095-2_9raw.gss
+54095-3_8raw.gss
+54095-4_7raw.gss
+54095-5_6raw.gss
+!
+!Mat Pcr NLI Rpa Sym Sho
+   0   1   0  -1   0   0
+!Ipr Ppl Ioc Ls1 Ls2 Ls3 Prf Ins Hkl Fou Ana
+   0   2   1   0   4   0   3  14   0   0   0  !-> Patt#: 1
+   0   2   1   0   4   0   3  14   0   0   0  !-> Patt#: 2
+   0   2   1   0   4   0   3  14   0   0   0  !-> Patt#: 3
+   0   2   1   0   4   0   3  14   0   0   0  !-> Patt#: 4
+!
+!  Bkpos        Wdt    Iabscor for Pattern#  1
+    2400.000   10.00     2
+!  Bkpos        Wdt    Iabscor for Pattern#  2
+    2400.000   20.00     2
+!  Bkpos        Wdt    Iabscor for Pattern#  3
+    2400.000   25.00     2
+!  Bkpos        Wdt    Iabscor for Pattern#  4
+    2400.000   30.00     2
+!NCY  Eps  R_at  R_an  R_pr  R_gl
+ 30  0.10  0.30  1.00  1.00  1.00
+!    TOF-min      <Step>       TOF-max  -> Patt#: 1
+   5202.3413     29.7868 135984.5156
+!    TOF-min      <Step>       TOF-max  -> Patt#: 2
+   7550.4497     27.6292 117130.3281
+!    TOF-min      <Step>       TOF-max  -> Patt#: 3
+   7459.2158     25.1687 109118.4531
+!    TOF-min      <Step>       TOF-max  -> Patt#: 4
+   7268.0732     23.3662 103446.6953
+!
+!2Theta/TOF/E(Kev)   Background  for Pattern#  1
+      6006.9424        69.0284          0.00
+      6663.0239       144.3803          0.00
+      7408.2656       141.6891          0.00
+      9523.0078       142.9580          0.00
+     11689.7598       259.6833          0.00
+     13187.2891       249.0284          0.00
+     14613.7051       242.7732          0.00
+     15360.6299       226.4336          0.00
+     16504.7031       254.8445          0.00
+     17808.3770       268.6905          0.00
+     20602.8301       273.6342          0.00
+     23910.5762       245.9080          0.00
+     27842.8594       291.3984          0.00
+     34250.1719       304.7522          0.00
+     35706.9961       300.0897          0.00
+     37705.8867       258.2093          0.00
+     38719.3320       262.8692          0.00
+     41681.5547       248.3331          0.00
+     45088.7773       251.4448          0.00
+     48382.7695       247.0081          0.00
+     53285.9023       259.7078          0.00
+     68224.4219       274.9020          0.00
+     76938.5625        80.6622          0.00
+     80767.1953        78.9690          0.00
+     90405.9375        79.9772          0.00
+    100267.6875        79.9772          0.00
+    108542.4219        81.1869          0.00
+    121440.4531        79.3124          0.00
+    132627.0938        81.8117          0.00
+    134255.0000        65.5660          0.00
+    136091.6094        -2.5412          0.00
+! 
+! Excluded regions (LowT  HighT) for Pattern#  1
+        0.00    10000.00
+    70000.00   300000.00
+! 
+!2Theta/TOF/E(Kev)   Background  for Pattern#  2
+      8012.4668       225.0560          0.00
+     12474.3311       291.3755          0.00
+     16106.0469       300.9704          0.00
+     18049.9648       282.1972          0.00
+     24954.0195       237.9669          0.00
+     29800.3164       263.4102          0.00
+     32219.0117       234.4325          0.00
+     36082.7539       241.4484          0.00
+     39417.5742       241.1185          0.00
+     42352.7812       269.4931          0.00
+     47530.1484       264.5529          0.00
+     49370.2109       254.0458          0.00
+     54419.4570       251.0208          0.00
+     57869.1914       241.5718          0.00
+     59819.6328       236.8516          0.00
+     63480.0352       236.1152          0.00
+     67225.0000       239.6694          0.00
+     70359.9922       240.2654          0.00
+     75130.8828       243.1703          0.00
+     78634.5625       246.7225          0.00
+     80948.7656       250.9684          0.00
+     84373.4219       266.4747          0.00
+     88736.0469       261.4085          0.00
+     91600.2344       254.8894          0.00
+     96203.5625       253.3280          0.00
+     99034.8203       256.2437          0.00
+    103010.9922       255.9168          0.00
+    106482.9062       249.4878          0.00
+    109692.4219       248.2673          0.00
+    112842.7031       248.8269          0.00
+    117049.4609        76.3622          0.00
+! 
+! Excluded regions (LowT  HighT) for Pattern#  2
+        0.00    10000.00
+   100000.00   300000.00
+! 
+!2Theta/TOF/E(Kev)   Background  for Pattern#  3
+      7772.5186       217.3958          0.00
+     11345.8623       336.6115          0.00
+     15437.0303       341.8846          0.00
+     17211.9102       331.8636          0.00
+     20975.5605       300.5655          0.00
+     25174.9961       260.5181          0.00
+     30035.2617       246.1110          0.00
+     31693.9141       243.3527          0.00
+     36651.5508       271.4320          0.00
+     40947.0156       229.3679          0.00
+     43150.9453       239.1659          0.00
+     47163.8789       246.4239          0.00
+     50099.8008       250.8482          0.00
+     54252.5781       295.0367          0.00
+     57286.5977       295.7865          0.00
+     60691.3359       248.6803          0.00
+     63156.6211       290.1993          0.00
+     66999.0938       253.9603          0.00
+     69075.8594       245.9894          0.00
+     72697.2422       242.6134          0.00
+     76762.7578       237.6694          0.00
+     78932.3672       239.8361          0.00
+     82685.4922       242.9532          0.00
+     88593.6172       240.6391          0.00
+     92131.1328       244.9234          0.00
+     95176.2031       250.0148          0.00
+     97996.2188       253.1175          0.00
+    102587.7109       241.9576          0.00
+    104373.1094       251.0011          0.00
+    107730.2656       291.7494          0.00
+    109046.0703       104.5667          0.00
+! 
+! Excluded regions (LowT  HighT) for Pattern#  3
+        0.00    10000.00
+   134000.00   300000.00
+! 
+!2Theta/TOF/E(Kev)   Background  for Pattern#  4
+      7272.7593         0.0000          0.00
+     11665.0166       454.7083          0.00
+     12452.3564       344.7095          0.00
+     13355.8008       431.3623          0.00
+     17781.0469       367.4624          0.00
+     19535.5918       364.7252          0.00
+     23309.1504       329.3261          0.00
+     26244.1758       311.7262          0.00
+     29245.6035       291.0416          0.00
+     32048.6816       283.1175          0.00
+     34359.1367       267.9130          0.00
+     37652.3242       270.5809          0.00
+     40890.4961       274.7345          0.00
+     44321.3750       258.3622          0.00
+     47762.2422       267.8358          0.00
+     49517.7148       265.5889          0.00
+     53741.6797       263.1681          0.00
+     56077.2109       267.6527          0.00
+     58363.5703       321.5953          0.00
+     62854.0703       342.6862          0.00
+     65839.7422       277.4449          0.00
+     67559.3047       274.6251          0.00
+     70449.8984       298.3768          0.00
+     74802.0625       273.9199          0.00
+     76410.1641       269.9313          0.00
+     82501.6016       269.9319          0.00
+     86811.3672       271.5724          0.00
+     88506.3438       275.3045          0.00
+     91936.9453       275.6909          0.00
+     95870.5625       278.9223          0.00
+     98883.0234       261.5912          0.00
+! 
+! Excluded regions (LowT  HighT) for Pattern#  4
+        0.00    10000.00
+   240000.00   300000.00
+! 
+!
+      44    !Number of refined parameters
+!
+!    Zero       Code      Dtt1      Code       Dtt2     Code  Dtt_1overd    Code  2ThetaBank  -> Patt#  1
+    -7.97879    0.00 10407.57715    0.00     1.14563    0.00     0.00000    0.00    58.330
+!
+!    Zero       Code      Dtt1      Code       Dtt2     Code  Dtt_1overd    Code  2ThetaBank  -> Patt#  2
+   -14.61874    0.00 15113.43652    0.00    -0.87502    0.00     0.00000    0.00    90.000
+!
+!    Zero       Code      Dtt1      Code       Dtt2     Code  Dtt_1overd    Code  2ThetaBank  -> Patt#  3
+   -11.10099    0.00 18655.97852    0.00     1.13298    0.00     0.00000    0.00   121.660
+!
+!    Zero       Code      Dtt1      Code       Dtt2     Code  Dtt_1overd    Code  2ThetaBank  -> Patt#  4
+   -10.70526    0.00 20769.13281    0.00     0.32168    0.00     0.00000    0.00   152.827
+!-------------------------------------------------------------------------------
+!  Data for PHASE number:   1  ==> Current R_Bragg for Pattern#  1:   7.4559
+!  Data for PHASE number:   1  ==> Current R_Bragg for Pattern#  2:   3.9719
+!  Data for PHASE number:   1  ==> Current R_Bragg for Pattern#  3:   4.3895
+!  Data for PHASE number:   1  ==> Current R_Bragg for Pattern#  4:   4.6407
+!-------------------------------------------------------------------------------
+CuCr2S4 thiospinel
+!
+!Nat Dis Ang Jbt Isy Str Furth        ATZ     Nvk More
+   3   0   0   0   0   0   0       2366.3794   0   0
+!Contributions (0/1) of this phase to the  4 patterns
+ 1 1 1 1
+!Irf Npr Jtyp  Nsp_Ref Ph_Shift for Pattern#  1
+   0   9   -1      0      0
+! Pr1    Pr2    Pr3   Brind.   Rmua   Rmub   Rmuc     for Pattern#  1
+  0.000  0.000  1.000  1.000  0.000  0.000  0.000
+!Irf Npr Jtyp  Nsp_Ref Ph_Shift for Pattern#  2
+   0   9   -1      0      0
+! Pr1    Pr2    Pr3   Brind.   Rmua   Rmub   Rmuc     for Pattern#  2
+  0.000  0.000  1.000  1.000  0.000  0.000  0.000
+!Irf Npr Jtyp  Nsp_Ref Ph_Shift for Pattern#  3
+   0   9   -1      0      0
+! Pr1    Pr2    Pr3   Brind.   Rmua   Rmub   Rmuc     for Pattern#  3
+  0.000  0.000  1.000  1.000  0.000  0.000  0.000
+!Irf Npr Jtyp  Nsp_Ref Ph_Shift for Pattern#  4
+   0   9   -1      0      0
+! Pr1    Pr2    Pr3   Brind.   Rmua   Rmub   Rmuc     for Pattern#  4
+  0.000  0.000  1.000  1.000  0.000  0.000  0.000
+!
+!
+F d -3 m                 <--Space group symbol
+!Atom   Typ       X        Y        Z     Biso       Occ     In Fin N_t Spc /Codes
+Cu0    Cu      0.12500  0.12500  0.12500  1.45863   0.04167   0   0   0    0  
+                  0.00     0.00     0.00   121.00      0.00
+Cr0    Cr      0.50000  0.50000  0.50000  1.36904   0.08333   0   0   0    0  
+                  0.00     0.00     0.00   131.00      0.00
+S1     S       0.25711  0.25711  0.25711  1.17636   0.16666   0   0   0    0  
+                  0.00     0.00     0.00   141.00      0.00
+!-------> Profile Parameters for Pattern #   1  ----> Phase #   1
+!  Scale          Extinc       Bov      Str1      Str2      Str3    Strain-Mode
+  80.45421        0.0000    0.0000    0.0000    0.0000    0.0000         0
+      31.00000      0.00      0.00      0.00      0.00      0.00
+!      Sigma-2       Sigma-1       Sigma-0       Sigma-Q   Iso-GStrain     Iso-GSize     Ani-LSize   Size-Model
+       34.5017       42.3748        0.0000        0.0000        0.0000        0.0000        0.0000       0
+        151.00        191.00          0.00          0.00          0.00          0.00          0.00
+!      Gamma-2       Gamma-1       Gamma-0   Iso-LorStrain   Iso-LorSize
+        0.0000        7.8551        0.0000        0.0000        0.0000
+          0.00        231.00          0.00          0.00          0.00
+!     a          b         c        alpha      beta       gamma      #Cell Info
+   9.826432   9.826432   9.826432  90.000000  90.000000  90.000000   
+   11.00000   11.00000   11.00000    0.00000    0.00000    0.00000
+!      Pref1      Pref2        alph0       beta0       alph1       beta1       alphQ       betaQ
+    1.000000    0.000000    0.036591    0.005833    0.023733    0.041284    0.000000    0.000000
+        0.00        0.00      261.00      301.00      371.00      411.00        0.00        0.00
+!Absorption correction parameters
+   0.08955    0.00   0.00000    0.00            ABS: ABSCOR1  ABSCOR2
+!-------> Profile Parameters for Pattern #   2  ----> Phase #   1
+!  Scale          Extinc       Bov      Str1      Str2      Str3    Strain-Mode
+  68.17843        0.0000    0.0000    0.0000    0.0000    0.0000         0
+      41.00000      0.00      0.00      0.00      0.00      0.00
+!      Sigma-2       Sigma-1       Sigma-0       Sigma-Q   Iso-GStrain     Iso-GSize     Ani-LSize   Size-Model
+       23.7772       66.3300        0.0000        0.0000        0.0000        0.0000        0.0000       0
+        161.00        201.00          0.00          0.00          0.00          0.00          0.00
+!      Gamma-2       Gamma-1       Gamma-0   Iso-LorStrain   Iso-LorSize
+        1.9820        1.8050        1.6550        0.0000        0.0000
+        341.00        241.00          0.00          0.00          0.00
+!     a          b         c        alpha      beta       gamma      #Cell Info
+   9.826432   9.826432   9.826432  90.000000  90.000000  90.000000   
+   11.00000   11.00000   11.00000    0.00000    0.00000    0.00000
+!      Pref1      Pref2        alph0       beta0       alph1       beta1       alphQ       betaQ
+    1.000000    0.000000    0.016035    0.006194    0.079503    0.016154    0.000000    0.000000
+        0.00        0.00      271.00      311.00      381.00      421.00        0.00        0.00
+!Absorption correction parameters
+   0.04523    0.00   0.00000    0.00            ABS: ABSCOR1  ABSCOR2
+!-------> Profile Parameters for Pattern #   3  ----> Phase #   1
+!  Scale          Extinc       Bov      Str1      Str2      Str3    Strain-Mode
+  67.27453        0.0000    0.0000    0.0000    0.0000    0.0000         0
+      51.00000      0.00      0.00      0.00      0.00      0.00
+!      Sigma-2       Sigma-1       Sigma-0       Sigma-Q   Iso-GStrain     Iso-GSize     Ani-LSize   Size-Model
+       18.5662       22.2847        0.0000        0.0000        0.0000        0.0000        0.0000       0
+        171.00        211.00          0.00          0.00          0.00          0.00          0.00
+!      Gamma-2       Gamma-1       Gamma-0   Iso-LorStrain   Iso-LorSize
+        0.7793        0.0000        7.9936        0.0000        0.0000
+        351.00          0.00          0.00          0.00          0.00
+!     a          b         c        alpha      beta       gamma      #Cell Info
+   9.826432   9.826432   9.826432  90.000000  90.000000  90.000000   
+   11.00000   11.00000   11.00000    0.00000    0.00000    0.00000
+!      Pref1      Pref2        alph0       beta0       alph1       beta1       alphQ       betaQ
+    1.000000    0.000000   -0.012488    0.006192    0.109263    0.009978    0.000000    0.000000
+        0.00        0.00      281.00      321.00      391.00      431.00        0.00        0.00
+!Absorption correction parameters
+   0.03562    0.00   0.00000    0.00            ABS: ABSCOR1  ABSCOR2
+!-------> Profile Parameters for Pattern #   4  ----> Phase #   1
+!  Scale          Extinc       Bov      Str1      Str2      Str3    Strain-Mode
+  69.65625        0.0000    0.0000    0.0000    0.0000    0.0000         0
+      61.00000      0.00      0.00      0.00      0.00      0.00
+!      Sigma-2       Sigma-1       Sigma-0       Sigma-Q   Iso-GStrain     Iso-GSize     Ani-LSize   Size-Model
+       10.4479       13.7833        0.0000        0.0000        0.0000        0.0000        0.0000       0
+        181.00        221.00          0.00          0.00          0.00          0.00          0.00
+!      Gamma-2       Gamma-1       Gamma-0   Iso-LorStrain   Iso-LorSize
+        1.4719        0.0000        0.0000        0.0000        0.0000
+        361.00        250.00          0.00          0.00          0.00
+!     a          b         c        alpha      beta       gamma      #Cell Info
+   9.826432   9.826432   9.826432  90.000000  90.000000  90.000000   
+   11.00000   11.00000   11.00000    0.00000    0.00000    0.00000
+!      Pref1      Pref2        alph0       beta0       alph1       beta1       alphQ       betaQ
+    1.000000    0.000000   -0.004898    0.006176    0.071034    0.006564    0.000000    0.000000
+        0.00        0.00      291.00      331.00      401.00      441.00        0.00        0.00
+!Absorption correction parameters
+   0.03657    0.00   0.00000    0.00            ABS: ABSCOR1  ABSCOR2
+!-------------------------------------------------------------------------------
+!  Data for PHASE number:   2  ==> Current R_Bragg for Pattern#  1: 134.0845
+!  Data for PHASE number:   2  ==> Current R_Bragg for Pattern#  2:  28.8507
+!  Data for PHASE number:   2  ==> Current R_Bragg for Pattern#  3: 104.0359
+!  Data for PHASE number:   2  ==> Current R_Bragg for Pattern#  4:  96.5946
+!-------------------------------------------------------------------------------
+CuCrS2
+!
+!Nat Dis Ang Jbt Isy Str Furth        ATZ     Nvk More
+   4   0   0   0   0   0   0        539.0074   0   0
+!Contributions (0/1) of this phase to the  4 patterns
+ 1 1 1 1
+!Irf Npr Jtyp  Nsp_Ref Ph_Shift for Pattern#  1
+   0   9   -1      0      0
+! Pr1    Pr2    Pr3   Brind.   Rmua   Rmub   Rmuc     for Pattern#  1
+  0.000  0.000  1.000  1.000  0.000  0.000  0.000
+!Irf Npr Jtyp  Nsp_Ref Ph_Shift for Pattern#  2
+   0   9   -1      0      0
+! Pr1    Pr2    Pr3   Brind.   Rmua   Rmub   Rmuc     for Pattern#  2
+  0.000  0.000  1.000  1.000  0.000  0.000  0.000
+!Irf Npr Jtyp  Nsp_Ref Ph_Shift for Pattern#  3
+   0   9   -1      0      0
+! Pr1    Pr2    Pr3   Brind.   Rmua   Rmub   Rmuc     for Pattern#  3
+  0.000  0.000  1.000  1.000  0.000  0.000  0.000
+!Irf Npr Jtyp  Nsp_Ref Ph_Shift for Pattern#  4
+   0   9   -1      0      0
+! Pr1    Pr2    Pr3   Brind.   Rmua   Rmub   Rmuc     for Pattern#  4
+  0.000  0.000  1.000  1.000  0.000  0.000  0.000
+!
+!
+160                      <--Space group symbol
+!Atom   Typ       X        Y        Z     Biso       Occ     In Fin N_t Spc /Codes
+Cu     Cu      0.00000  0.00000  0.08775  0.00000   0.16667   0   0   0    0  
+                  0.00     0.00     0.00     0.00      0.00
+Cr     Cr      0.00000  0.00000  0.20001  0.00000   0.16667   0   0   0    0  
+                  0.00     0.00     0.00     0.00      0.00
+S1     S       0.00000  0.00000  0.30858  0.00000   0.16667   0   0   0    0  
+                  0.00     0.00     0.00     0.00      0.00
+S2     S       0.00000  0.00000  0.69684  0.00000   0.16667   0   0   0    0  
+                  0.00     0.00     0.00     0.00      0.00
+!-------> Profile Parameters for Pattern #   1  ----> Phase #   2
+!  Scale          Extinc       Bov      Str1      Str2      Str3    Strain-Mode
+  60.80841        0.0000    0.2015    0.0000    0.0000    0.0000         0
+      21.00000      0.00      0.00      0.00      0.00      0.00
+!      Sigma-2       Sigma-1       Sigma-0       Sigma-Q   Iso-GStrain     Iso-GSize     Ani-LSize   Size-Model
+       39.0668        0.0000        0.0000        0.0000        0.0000        0.0000        0.0000       0
+          0.00          0.00          0.00          0.00          0.00          0.00          0.00
+!      Gamma-2       Gamma-1       Gamma-0   Iso-LorStrain   Iso-LorSize
+        1.0681        1.0130        0.0000        0.0000        0.0000
+          0.00          0.00          0.00          0.00          0.00
+!     a          b         c        alpha      beta       gamma      #Cell Info
+   3.512285   3.512285  18.640568  90.000000  90.000000 120.000000   
+  101.00000  101.00000   71.00000    0.00000    0.00000  101.00000
+!      Pref1      Pref2        alph0       beta0       alph1       beta1       alphQ       betaQ
+    1.000000    0.000000    0.007434    0.000719    0.140197    0.016128    0.000000    0.000000
+        0.00        0.00        0.00        0.00        0.00        0.00        0.00        0.00
+!Absorption correction parameters
+   0.36164    0.00   0.00000    0.00            ABS: ABSCOR1  ABSCOR2
+!-------> Profile Parameters for Pattern #   2  ----> Phase #   2
+!  Scale          Extinc       Bov      Str1      Str2      Str3    Strain-Mode
+  43.95063        0.0000    0.2015    0.0000    0.0000    0.0000         0
+     111.00000      0.00      0.00      0.00      0.00      0.00
+!      Sigma-2       Sigma-1       Sigma-0       Sigma-Q   Iso-GStrain     Iso-GSize     Ani-LSize   Size-Model
+       18.9505        0.5840      546.7623        0.0000        0.0000        0.0000        0.0000       0
+          0.00          0.00          0.00          0.00          0.00          0.00          0.00
+!      Gamma-2       Gamma-1       Gamma-0   Iso-LorStrain   Iso-LorSize
+        0.0000        0.0000       12.4012        0.0000        0.0000
+          0.00          0.00          0.00          0.00          0.00
+!     a          b         c        alpha      beta       gamma      #Cell Info
+   3.481485   3.481485  18.743752  90.000000  90.000000 120.000000   
+  101.00000  101.00000   71.00000    0.00000    0.00000  101.00000
+!      Pref1      Pref2        alph0       beta0       alph1       beta1       alphQ       betaQ
+    1.000000    0.000000   -0.011606    0.001131    0.094748    0.008944    0.000000    0.000000
+        0.00        0.00        0.00        0.00        0.00        0.00        0.00        0.00
+!Absorption correction parameters
+   0.14149    0.00   0.00000    0.00            ABS: ABSCOR1  ABSCOR2
+!-------> Profile Parameters for Pattern #   3  ----> Phase #   2
+!  Scale          Extinc       Bov      Str1      Str2      Str3    Strain-Mode
+  27.68269        0.0000    0.2015    0.0000    0.0000    0.0000         0
+      81.00000      0.00      0.00      0.00      0.00      0.00
+!      Sigma-2       Sigma-1       Sigma-0       Sigma-Q   Iso-GStrain     Iso-GSize     Ani-LSize   Size-Model
+        1.9332       38.6407        0.4028        0.0000        0.0000        0.0000        0.0000       0
+          0.00          0.00          0.00          0.00          0.00          0.00          0.00
+!      Gamma-2       Gamma-1       Gamma-0   Iso-LorStrain   Iso-LorSize
+        0.0681        3.4357        0.6550        0.0000        0.0000
+          0.00          0.00          0.00          0.00          0.00
+!     a          b         c        alpha      beta       gamma      #Cell Info
+   3.512285   3.512285  18.640568  90.000000  90.000000 120.000000   
+  101.00000  101.00000   71.00000    0.00000    0.00000  101.00000
+!      Pref1      Pref2        alph0       beta0       alph1       beta1       alphQ       betaQ
+    1.000000    0.000000    0.007466    0.005498    0.140197    0.016128    0.000000    0.000000
+        0.00        0.00        0.00        0.00        0.00        0.00        0.00        0.00
+!Absorption correction parameters
+   0.44020    0.00   0.00000    0.00            ABS: ABSCOR1  ABSCOR2
+!-------> Profile Parameters for Pattern #   4  ----> Phase #   2
+!  Scale          Extinc       Bov      Str1      Str2      Str3    Strain-Mode
+  15.27080        0.0000    0.2015    0.0000    0.0000    0.0000         0
+      91.00000      0.00      0.00      0.00      0.00      0.00
+!      Sigma-2       Sigma-1       Sigma-0       Sigma-Q   Iso-GStrain     Iso-GSize     Ani-LSize   Size-Model
+        1.9332       38.6407       14.4028        0.0000        0.0000        0.0000        0.0000       0
+          0.00          0.00          0.00          0.00          0.00          0.00          0.00
+!      Gamma-2       Gamma-1       Gamma-0   Iso-LorStrain   Iso-LorSize
+        0.0681        3.4357        1.6550        0.0000        0.0000
+          0.00          0.00          0.00          0.00          0.00
+!     a          b         c        alpha      beta       gamma      #Cell Info
+   3.512285   3.512285  18.640568  90.000000  90.000000 120.000000   
+  101.00000  101.00000   71.00000    0.00000    0.00000  101.00000
+!      Pref1      Pref2        alph0       beta0       alph1       beta1       alphQ       betaQ
+    1.000000    0.000000    0.007466    0.005498    0.140197    0.016128    0.000000    0.000000
+        0.00        0.00        0.00        0.00        0.00        0.00        0.00        0.00
+!Absorption correction parameters
+   0.14149    0.00   0.00000    0.00            ABS: ABSCOR1  ABSCOR2
+!  2Th1/TOF1    2Th2/TOF2  Pattern to plot
+   10000.000   70000.000       4
