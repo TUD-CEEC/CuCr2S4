@@ -19,9 +19,6 @@ W_PAT   1.000
     2400.000   10.00     2
 !NCY  Eps  R_at  R_an  R_pr  R_gl
 300  0.10  0.30  1.00  1.00  1.00
-! Additional scattering factors for Pattern#  1
-MS      0.00000    0.00000   1
-     0.32910     23.54750      1.08360      8.45400     -0.43400      4.11960      0.02140      0.00000      0.00000
 !    TOF-min      <Step>       TOF-max  -> Patt#: 1
    5202.3413     29.7868 135984.5156
 !
@@ -63,7 +60,9 @@ MS      0.00000    0.00000   1
 ! Excluded regions (LowT  HighT) for Pattern#  1
         0.00    10000.00
     70000.00   300000.00
-! 
+! Additional scattering factors for Pattern#  1
+MS      0.00000    0.00000   1
+     0.32910     23.54750      1.08360      8.45400     -0.43400      4.11960      0.02140      0.00000      0.00000
 !
        3    !Number of refined parameters
 !
